@@ -1,2 +1,34 @@
-# hover
-hover.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="hover.css" />
+    <title>社交按钮分享hover发光特效</title>
+  </head>
+  <body>
+    <main>
+      <ul>
+        <li>
+          <a href="#"><img src="bilibili.svg" alt="" class="svg-icon"/></a>
+        </li>
+        <li>
+          <a href="#"><i class="fab fa-weixin"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fab fa-weibo"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fab fa-github"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fas fa-chalkboard-teacher"></i></a>
+        <li>
+          <a href="#"><i class="fab fa-qq"></i></a>
+        </li>
+        </ul>
+    </main>
+  </body>
+</html>
